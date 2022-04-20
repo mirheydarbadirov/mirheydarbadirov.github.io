@@ -12,7 +12,7 @@ gdjs.evtsExt__CursorType__onScenePreEvents.condition0IsTrue_0 = {val:false};
 gdjs.evtsExt__CursorType__onScenePreEvents.condition1IsTrue_0 = {val:false};
 
 
-gdjs.evtsExt__CursorType__onScenePreEvents.userFunc0xbd26c8 = function(runtimeScene, eventsFunctionContext) {
+gdjs.evtsExt__CursorType__onScenePreEvents.userFunc0xbef668 = function(runtimeScene, eventsFunctionContext) {
 "use strict";
 // Reset to default cursor
 runtimeScene.getGame().getRenderer().getCanvas().style.cursor =
@@ -65,7 +65,7 @@ gdjs.evtsExt__CursorType__onScenePreEvents.condition0IsTrue_0.val = gdjs.evtTool
 {
 
 
-gdjs.evtsExt__CursorType__onScenePreEvents.userFunc0xbd26c8(runtimeScene, typeof eventsFunctionContext !== 'undefined' ? eventsFunctionContext : undefined);
+gdjs.evtsExt__CursorType__onScenePreEvents.userFunc0xbef668(runtimeScene, typeof eventsFunctionContext !== 'undefined' ? eventsFunctionContext : undefined);
 
 }
 
